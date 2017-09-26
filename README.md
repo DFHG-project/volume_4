@@ -1,4 +1,4 @@
-# DFHG volume 4
+# DFHG Volumen Quartum
 
 This page contains data from the [DFHG project](http://www.dfhg-project.org/) - [Volumen Quartum](http://www.dfhg-project.org/DFHG/index.php?volume=Volumen%20quartum).
 
