@@ -1,4 +1,6 @@
-# DFHG Volumen Quartum
+[![DOI](https://zenodo.org/badge/87412180.svg)](https://zenodo.org/badge/latestdoi/87412180)
+
+## DFHG Volumen Quartum
 
 This repository stores data from the [DFHG project](http://www.dfhg-project.org/) - [Volumen Quartum](http://www.dfhg-project.org/DFHG/index.php?volume=Volumen%20quartum).
 
